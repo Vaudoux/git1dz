@@ -1,3 +1,5 @@
-# git1dz
-Hello conflict!!!
-Fix please!
+## Hello Homework!
+
+Hello!
+Hello!
+Add text!
